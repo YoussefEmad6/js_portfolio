@@ -8,8 +8,8 @@ const filtersData = [
         id: "all",
     },
     {
-        name: "Products",
-        id: "product",
+        name: "React",
+        id: "react",
     },
     {
         name: "Web Pages",
@@ -20,8 +20,8 @@ const filtersData = [
         id: "web-app",
     },
     {
-        name: "Mobile Apps",
-        id: "mobile-app",
+        name: "HTML CSS Javascript",
+        id: "html",
     },
 ];
 

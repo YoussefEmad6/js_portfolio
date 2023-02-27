@@ -9,14 +9,13 @@
     align-items: center;
     width: 100%;
     .footer-logo {
-        width: 120px;
-        @include small-screen {
-            width: 150px;
-        }
-        img {
-            display: block;
-            width: 100%;
-        }
+        font-size: 5rem;
+        color: #FACC15;
+        
+        // img {
+        //     display: block;
+        //     width: 100%;
+        // }
     }
     .footer-menu-items {
         margin: 0;

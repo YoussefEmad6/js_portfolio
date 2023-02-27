@@ -2,7 +2,7 @@ export const projectsData = [
     {
         id: 1,
         name: "Healthy Food Restraunt",
-        tags: ["web-app", "mobile-app"],
+        tags: ["web-app", "html"],
         media: {
             thumbnail: require("./images/portfolio/thumb-7.jpg"),
         },
@@ -27,7 +27,7 @@ export const projectsData = [
     {
         id: 4,
         name: "Business Analytics Web App",
-        tags: ["web-app", "mobile-app"],
+        tags: ["web-app", "html"],
         media: {
             thumbnail: require("./images/portfolio/thumb-1.jpg"),
         },herf : 'https://github.com/YoussefEmad6/api_project'
@@ -43,7 +43,7 @@ export const projectsData = [
     {
         id: 6,
         name: "Dashboard",
-        tags: ["product", "web-app", "mobile-app"],
+        tags: ["react", "web-app", "html"],
         media: {
             thumbnail: require("./images/portfolio/thumb-4.jpg"),
         },herf : 'https://github.com/YoussefEmad6/api_project'
@@ -59,7 +59,7 @@ export const projectsData = [
     {
         id: 8,
         name: "Virtual Reality Experience",
-        tags: ["web-app", "mobile-app", "web-page"],
+        tags: ["web-app", "html", "web-page"],
         media: {
             thumbnail: require("./images/portfolio/thumb-5.jpg"),
         },herf : 'https://github.com/YoussefEmad6/api_project'
