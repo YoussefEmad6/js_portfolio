@@ -40,11 +40,11 @@ const Footer = () => {
         <div className="social-icons">
           {/* <SocialIcon
             color="#FF0000"
-            icon={<FaYoutube />}
+            icon={<FaGithub />}
             link="https://www.youtube.com/"
           /> */}
-          <SocialIcon color="#0D2636" icon={<FaGithub />} />
-          <SocialIcon color="#0A66C2" icon={<FaLinkedinIn />} />
+          <SocialIcon color="#0D2636" icon={<FaGithub />} link='https://github.com/YoussefEmad6' />
+          <SocialIcon color="#0A66C2" icon={<FaLinkedinIn />} link='https://www.linkedin.com/in/youssef-emad-shehata/' />
           {/* <SocialIcon color="#f2740d" icon={<FaStackOverflow />} />
           <SocialIcon color="#E84C88" icon={<FaInstagram />} /> */}
         </div>

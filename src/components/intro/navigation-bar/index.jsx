@@ -43,12 +43,6 @@ const Navigation = () => {
         >
           Portfolio
         </li>
-        <li
-          className="navigation-item"
-          onClick={() => menuItemClickHandler("blogs")}
-        >
-          Blogs & Articles
-        </li>
         <CallToAction
           className="call"
           text="Contact me"

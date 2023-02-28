@@ -13,7 +13,7 @@ import { ImHtmlFive2, ImCss3 } from "react-icons/im";
 import CallToAction from "../shared/CallToAction";
 // import TechIcons from "../../images/tech-icons.png";
 import Section from "../shared/section";
-import Resume from "../../download/file-sample_150kB.pdf";
+import Resume from "../../download/Rezume__1_ (1).pdf";
 
 import "./style.scss";
 
@@ -35,13 +35,7 @@ const Skills = () => {
         <div className="right-col">
           <h2>Skills</h2>
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book. It has survived not
-            only five centuries, but also the leap into electronic typesetting,
-            remaining essentially unchanged. It was popularised in the 1960s
-            with the
+          Frontend Developer with react.js, I build a lot of projects with HTML, CSS, and javascript and use javascript frameworks like React and CSS framework Bootstrap and tailwind CSS, sometimes I use sass 
           </p>
           <CallToAction
             text="Download CV"

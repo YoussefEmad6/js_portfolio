@@ -2,7 +2,7 @@ import React from "react";
 import { BsAwardFill } from "react-icons/bs";
 import { FaUser } from "react-icons/fa";
 
-import girl from "../../../images/girl.png";
+import hero from "../../../images/hero.png";
 import hand from "../../../images/hand.png";
 import CallToAction from "../../shared/CallToAction";
 import { scrollToSection } from "../../utils/helpers";
@@ -35,7 +35,7 @@ const IntroContent = () => {
           />
         </div>
         <div className="right-col">
-          <img src={girl} alt="Hello I am Keniya Andrew" />
+          <img src={hero} alt="Hello I am Keniya Andrew" />
 
           <div className="highlights horizontal">
             <div className="icon">
