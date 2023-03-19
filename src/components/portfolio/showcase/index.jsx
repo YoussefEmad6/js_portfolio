@@ -34,7 +34,7 @@ const Showcase = ({ data, transition }) => {
                 <Arrow />
               </div>
               <a href={project.herf}
-                  className="text"
+                  className="text-git"
                   rel="noreferrer"
                   target="_blank"><BsGithub /></a>
             </div>

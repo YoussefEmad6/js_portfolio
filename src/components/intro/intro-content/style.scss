@@ -129,6 +129,7 @@
                 }
 
                 &.horizontal {
+                    z-index: 4;
                     width: 208px;
                     height: 95px;
                     display: flex;
@@ -150,6 +151,7 @@
                     }
                 }
                 &.verticle {
+
                     width: 135px;
                     height: 165px;
                     min-height: 165px;
