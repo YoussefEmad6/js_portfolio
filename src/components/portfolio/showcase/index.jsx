@@ -33,10 +33,14 @@ const Showcase = ({ data, transition }) => {
                 </a>
                 <Arrow />
               </div>
-              <a href={project.herf}
-                  className="text-git"
-                  rel="noreferrer"
-                  target="_blank"><BsGithub /></a>
+              <a
+                href={project.herf_git}
+                className="text-git"
+                rel="noreferrer"
+                target="_blank"
+              >
+                <BsGithub />
+              </a>
             </div>
           </div>
           <img src={project.media.thumbnail} alt="hh" />
